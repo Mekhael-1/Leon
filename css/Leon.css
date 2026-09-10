@@ -402,6 +402,19 @@ border-width: 10px;
     .contact .info .link {
     font-size: 25px;
     }
+    .contact,
+    .portfolio,
+    .about,
+    .services,
+    .features,
+    .contact .info {
+        padding: 0px !important;
+        padding-block: 60px !important;
+    }
+    .Logo{
+        width: 150px;
+    }
+    
 }
 /* End Contact */
 /* Start footer */
